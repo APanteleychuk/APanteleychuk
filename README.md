@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://github.com/APanteleychuk/APanteleychuk/blob/master/source.gif)
 <!--
 **APanteleychuk/APanteleychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
